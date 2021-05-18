@@ -17,9 +17,14 @@ public class TestGit {
     public static void main(String[] args) {
         // TODO code applicujjjjation logic here
         //Test Vivian
+        
     }
     
     public void test(){
+        
+    }
+    
+    private  void myMethod(){
         
     }
 }
