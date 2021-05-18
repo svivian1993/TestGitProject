@@ -25,6 +25,9 @@ public class TestGit {
     }
     
     private  void myMethod(){
+        //This is developer A
+        
+        int a = 5;
         
     }
 }
